@@ -37,8 +37,8 @@ AIController::AIController()
 		{
 			json temp;
 			temp["type"] = rand() % 3 + 1;
-			temp["x"] = rand() % 32;//25;
-			temp["y"] = rand() % 32;//17;
+			temp["x"] = rand() % 25;
+			temp["y"] = rand() % 17;
 			_currentGeneration["gene_" + to_string(gene)]["towers"].push_back(temp);
 		}
 
@@ -132,26 +132,26 @@ void AIController::gameOver()
 				std::string geneA = winningGenes[first];
 				std::string geneB = winningGenes[second];
 				std::string child;
-		// Crossover
+				// Crossover
 #if ONE_POINT_CROSSOVER
 				// Gene sizes are the same
 				child = geneA.substr(0, geneA.size() / 2);
 				child += geneB.substr(geneA.size() / 2, string::npos);
-				
+
 #endif
 				// Mutation
-				for (int i = 0; i < child.size() / 50; i++)
+				for (int i = 0; i < child.size(); i++)
 				{
-					int flipAt = rand() % child.size();
-					child.replace(flipAt, 1, child.at(flipAt) == '0' ? "1" : "0");
+					if (rand() % 100 < 1)
+						child.replace(i, 1, child.at(i) == '0' ? "1" : "0");
 				}
 
 				while (!child.empty())
 				{
 					json tower;
 					tower["type"] = stoi(child.substr(0, 2), nullptr, 2) % 3 + 1;
-					tower["x"] = stoi(child.substr(2, 5), nullptr, 2);
-					tower["y"] = stoi(child.substr(7, 5), nullptr, 2);
+					tower["x"] = stoi(child.substr(2, 5), nullptr, 2) % 25;
+					tower["y"] = stoi(child.substr(7, 5), nullptr, 2) % 17;
 					_currentGeneration["gene_" + to_string(gene)]["towers"].push_back(tower);
 					child.erase(0, 12);
 				}
