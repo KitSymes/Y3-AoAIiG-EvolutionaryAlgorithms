@@ -80,12 +80,14 @@ AIController::AIController()
 	std::ofstream o("export.csv");
 
 	_currentGenerationNum = 0;
+	o << ",0,1,2,3,4,5,6,7,8,9,10,11" << std::endl;
 
 	while (true)
 	{
 		std::ifstream f("generation_" + to_string(_currentGenerationNum) + ".json");
 		if (!f.good())
 			break;
+		o << _currentGenerationNum << ",";
 		_currentGeneration = json::parse(f);
 		for (int gene = 0; gene < GENE_COUNT; gene++)
 		{
