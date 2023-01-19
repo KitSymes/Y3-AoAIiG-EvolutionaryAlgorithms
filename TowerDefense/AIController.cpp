@@ -10,7 +10,7 @@
 
 using namespace std;
 
-#define GENERATE true
+#define EXPORT false
 
 #define PARENT_COUNT 4
 #define GENE_COUNT 12
@@ -19,7 +19,8 @@ using namespace std;
 #define TOURNAMENT_SELECTION true
 #define ROULETTE_SELECTION false
 
-#define ONE_POINT_CROSSOVER true
+#define ONE_POINT_CROSSOVER false
+#define UNIFORM_CROSSOVER true
 
 AIController::AIController()
 {
@@ -31,24 +32,73 @@ AIController::AIController()
 	_elapsedSeconds = 0;
 	_currentScore = 0;
 
-#if GENERATE
-	for (int gene = 0; gene < GENE_COUNT; gene++)
-		for (int time = 0; time < MAX_TOWER_ATTEMPTS; time++)
-		{
-			json temp;
-			temp["type"] = rand() % 3 + 1;
-			temp["x"] = rand() % 25;
-			temp["y"] = rand() % 17;
-			_currentGeneration["gene_" + to_string(gene)]["towers"].push_back(temp);
-		}
+#if !EXPORT
+	_currentGenerationNum = -1;
+	_currentGene = -1;
+	while (_currentGene < 0)
+	{
+		_currentGenerationNum++;
+		std::ifstream f("generation_" + to_string(_currentGenerationNum) + ".json");
+		if (!f.good())
+			break;
+		_currentGeneration = json::parse(f);
+		for (int gene = 0; gene < GENE_COUNT; gene++)
+			if (!_currentGeneration["gene_" + to_string(gene)].contains("score"))
+			{
+				_currentGene = gene;
+				break;
+			}
+	}
+
+	if (_currentGenerationNum < 0)
+	{
+		for (int gene = 0; gene < GENE_COUNT; gene++)
+			for (int time = 0; time < MAX_TOWER_ATTEMPTS; time++)
+			{
+				json temp;
+				temp["type"] = rand() % 3 + 1;
+				temp["x"] = rand() % 25;
+				temp["y"] = rand() % 17;
+				_currentGeneration["gene_" + to_string(gene)]["towers"].push_back(temp);
+			}
+
+		_currentGenerationNum = 0;
+		_currentGene = 0;
+
+		SaveCurrentGeneration();
+	}
+	else if (_currentGene < 0)
+	{
+		// TODO Stopped after completing a generation but didn't create a new one
+		_currentGenerationNum--;
+		CreateNewGeneration();
+	}
+
+	OutputDebugStringA(("Starting at " + to_string(_currentGenerationNum) + "\n").c_str());
+#else
+
+	std::ofstream o("export.csv");
 
 	_currentGenerationNum = 0;
-	_currentGene = 0;
 
-	SaveCurrentGeneration();
-#else
-	std::ifstream f("example.json");
-	json data = json::parse(f);
+	while (true)
+	{
+		std::ifstream f("generation_" + to_string(_currentGenerationNum) + ".json");
+		if (!f.good())
+			break;
+		_currentGeneration = json::parse(f);
+		for (int gene = 0; gene < GENE_COUNT; gene++)
+		{
+			if (!_currentGeneration["gene_" + to_string(gene)].contains("score"))
+				break;
+			o << _currentGeneration["gene_" + to_string(gene)]["score"] << ",";
+		}
+		o << std::endl;
+		_currentGenerationNum++;
+	}
+
+	o.close();
+	exit(0);
 #endif
 }
 
@@ -88,80 +138,93 @@ void AIController::gameOver()
 			}
 		}
 
-		_currentGene = 0;
-		_currentGenerationNum++;
+		CreateNewGeneration();
+	}
+}
 
-		// Parent genes for next generation
-		json winners[PARENT_COUNT];
-		string winningGenes[PARENT_COUNT];
+void AIController::CreateNewGeneration()
+{
+	_currentGene = 0;
+	_currentGenerationNum++;
 
-		// Selection
+	// Parent genes for next generation
+	json winners[PARENT_COUNT];
+	string winningGenes[PARENT_COUNT];
+
+	// Selection
 #if TOURNAMENT_SELECTION
 		// Run tournaments until PARENT_COUNT have been chosen
-		for (int round = 0; round < PARENT_COUNT; round++)
+	for (int round = 0; round < PARENT_COUNT; round++)
+	{
+		int max = round * (GENE_COUNT / PARENT_COUNT);
+		// Compare the genes next to each other - does not need to select random genes to compare as they already have no impact on eachother
+		// Start at 1 because 0 is already max by default
+		for (int i = 1; i < GENE_COUNT / PARENT_COUNT; i++)
 		{
-			int max = round * (GENE_COUNT / PARENT_COUNT);
-			// Compare the genes next to each other - does not need to select random genes to compare as they already have no impact on eachother
-			// Start at 1 because 0 is already max by default
-			for (int i = 1; i < GENE_COUNT / PARENT_COUNT; i++)
-			{
-				if (_currentGeneration["gene_" + to_string(i + round * (GENE_COUNT / PARENT_COUNT))]["score"]
-			> _currentGeneration["gene_" + to_string(max)]["score"])
-					max = i + round * (GENE_COUNT / PARENT_COUNT);
-			}
-
-			winners[round] = _currentGeneration["gene_" + to_string(max)];
-			for (json tower : winners[round]["towers"])
-			{
-				winningGenes[round] += std::bitset<2>(tower["type"]).to_string();
-				winningGenes[round] += std::bitset<5>(tower["x"]).to_string();
-				winningGenes[round] += std::bitset<5>(tower["y"]).to_string();
-			}
-			OutputDebugStringA(to_string(max).c_str());
+			if (_currentGeneration["gene_" + to_string(i + round * (GENE_COUNT / PARENT_COUNT))]["score"]
+		> _currentGeneration["gene_" + to_string(max)]["score"])
+				max = i + round * (GENE_COUNT / PARENT_COUNT);
 		}
-		_currentGeneration.clear();
+
+		winners[round] = _currentGeneration["gene_" + to_string(max)];
+		for (json tower : winners[round]["towers"])
+		{
+			winningGenes[round] += std::bitset<2>(tower["type"]).to_string();
+			winningGenes[round] += std::bitset<5>(tower["x"]).to_string();
+			winningGenes[round] += std::bitset<5>(tower["y"]).to_string();
+		}
+		OutputDebugStringA(to_string(max).c_str());
+	}
+	OutputDebugStringA("\n");
+	_currentGeneration.clear();
 #elif ROULETTE_SELECTION
 #endif
 
-		int gene = 0;
-		for (int first = 0; first < PARENT_COUNT; first++)
-			for (int second = 0; second < PARENT_COUNT; second++)
-			{
-				if (first == second)
-					continue;
-				std::string geneA = winningGenes[first];
-				std::string geneB = winningGenes[second];
-				std::string child;
-				// Crossover
+	int gene = 0;
+	for (int first = 0; first < PARENT_COUNT; first++)
+		for (int second = 0; second < PARENT_COUNT; second++)
+		{
+			if (first == second)
+				continue;
+			std::string geneA = winningGenes[first];
+			std::string geneB = winningGenes[second];
+			std::string child;
+			// Crossover
 #if ONE_POINT_CROSSOVER
 				// Gene sizes are the same
-				child = geneA.substr(0, geneA.size() / 2);
-				child += geneB.substr(geneA.size() / 2, string::npos);
-
+			child = geneA.substr(0, geneA.size() / 2);
+			child += geneB.substr(geneA.size() / 2, string::npos);
+#elif UNIFORM_CROSSOVER
+				// A tower placement is 12 bits
+			for (int i = 0; i < geneA.size() / 12; i++)
+			{
+				if (i % 2 == 0)
+					child += geneA.substr(i * 12, 12);
+				else
+					child += geneB.substr(i * 12, 12);
+			}
 #endif
-				// Mutation
-				for (int i = 0; i < child.size(); i++)
-				{
-					if (rand() % 100 < 1)
-						child.replace(i, 1, child.at(i) == '0' ? "1" : "0");
-				}
-
-				while (!child.empty())
-				{
-					json tower;
-					tower["type"] = stoi(child.substr(0, 2), nullptr, 2) % 3 + 1;
-					tower["x"] = stoi(child.substr(2, 5), nullptr, 2) % 25;
-					tower["y"] = stoi(child.substr(7, 5), nullptr, 2) % 17;
-					_currentGeneration["gene_" + to_string(gene)]["towers"].push_back(tower);
-					child.erase(0, 12);
-				}
-				gene++;
+			// Mutation
+			for (int i = 0; i < child.size(); i++)
+			{
+				if (rand() % 100 < 1)
+					child.replace(i, 1, child.at(i) == '0' ? "1" : "0");
 			}
 
+			while (!child.empty())
+			{
+				json tower;
+				tower["type"] = stoi(child.substr(0, 2), nullptr, 2) % 3 + 1;
+				tower["x"] = stoi(child.substr(2, 5), nullptr, 2) % 25;
+				tower["y"] = stoi(child.substr(7, 5), nullptr, 2) % 17;
+				_currentGeneration["gene_" + to_string(gene)]["towers"].push_back(tower);
+				child.erase(0, 12);
+			}
+			gene++;
+		}
 
-		SaveCurrentGeneration();
-		int i = 0;
-	}
+
+	SaveCurrentGeneration();
 }
 
 void AIController::SaveCurrentGeneration()

@@ -26,6 +26,7 @@ public:
 	void addTower(TowerType type, int gridx, int gridy);
 	void gameOver();
 
+	void CreateNewGeneration();
 	void SaveCurrentGeneration();
 
 private:
