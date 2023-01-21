@@ -12,15 +12,18 @@ using namespace std;
 
 #define EXPORT false
 
+#define TOURNAMENT_SELECTION 0
+#define ROULETTE_SELECTION 1
+
+#define ONE_POINT_CROSSOVER 0
+#define UNIFORM_CROSSOVER 1
+
 #define PARENT_COUNT 4
 #define GENE_COUNT 12
 #define MAX_TOWER_ATTEMPTS 200
 
-#define TOURNAMENT_SELECTION true
-#define ROULETTE_SELECTION false
-
-#define ONE_POINT_CROSSOVER false
-#define UNIFORM_CROSSOVER true
+#define SELECTION TOURNAMENT_SELECTION
+#define CROSSOVER ONE_POINT_CROSSOVER
 
 AIController::AIController()
 {
@@ -154,7 +157,7 @@ void AIController::CreateNewGeneration()
 	string winningGenes[PARENT_COUNT];
 
 	// Selection
-#if TOURNAMENT_SELECTION
+#if SELECTION == TOURNAMENT_SELECTION
 		// Run tournaments until PARENT_COUNT have been chosen
 	for (int round = 0; round < PARENT_COUNT; round++)
 	{
@@ -179,7 +182,7 @@ void AIController::CreateNewGeneration()
 	}
 	OutputDebugStringA("\n");
 	_currentGeneration.clear();
-#elif ROULETTE_SELECTION
+#elif SELECTION == ROULETTE_SELECTION
 #endif
 
 	int gene = 0;
@@ -192,11 +195,11 @@ void AIController::CreateNewGeneration()
 			std::string geneB = winningGenes[second];
 			std::string child;
 			// Crossover
-#if ONE_POINT_CROSSOVER
+#if CROSSOVER == ONE_POINT_CROSSOVER
 				// Gene sizes are the same
 			child = geneA.substr(0, geneA.size() / 2);
 			child += geneB.substr(geneA.size() / 2, string::npos);
-#elif UNIFORM_CROSSOVER
+#elif CROSSOVER == UNIFORM_CROSSOVER
 				// A tower placement is 12 bits
 			for (int i = 0; i < geneA.size() / 12; i++)
 			{
