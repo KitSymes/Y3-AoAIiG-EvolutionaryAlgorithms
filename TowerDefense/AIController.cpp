@@ -40,10 +40,10 @@ AIController::AIController()
 	_currentGene = -1;
 	while (_currentGene < 0)
 	{
-		_currentGenerationNum++;
-		std::ifstream f("generation_" + to_string(_currentGenerationNum) + ".json");
+		std::ifstream f("generation_" + to_string(_currentGenerationNum + 1) + ".json");
 		if (!f.good())
 			break;
+		_currentGenerationNum++;
 		_currentGeneration = json::parse(f);
 		for (int gene = 0; gene < GENE_COUNT; gene++)
 			if (!_currentGeneration["gene_" + to_string(gene)].contains("score"))
@@ -59,7 +59,7 @@ AIController::AIController()
 			for (int time = 0; time < MAX_TOWER_ATTEMPTS; time++)
 			{
 				json temp;
-				temp["type"] = rand() % 3 + 1;
+				temp["type"] = rand() % 4;
 				temp["x"] = rand() % 25;
 				temp["y"] = rand() % 17;
 				_currentGeneration["gene_" + to_string(gene)]["towers"].push_back(temp);
@@ -73,7 +73,6 @@ AIController::AIController()
 	else if (_currentGene < 0)
 	{
 		// TODO Stopped after completing a generation but didn't create a new one
-		_currentGenerationNum--;
 		CreateNewGeneration();
 	}
 
@@ -219,7 +218,7 @@ void AIController::CreateNewGeneration()
 			while (!child.empty())
 			{
 				json tower;
-				tower["type"] = stoi(child.substr(0, 2), nullptr, 2) % 3 + 1;
+				tower["type"] = stoi(child.substr(0, 2), nullptr, 2);
 				tower["x"] = stoi(child.substr(2, 5), nullptr, 2) % 25;
 				tower["y"] = stoi(child.substr(7, 5), nullptr, 2) % 17;
 				_currentGeneration["gene_" + to_string(gene)]["towers"].push_back(tower);
