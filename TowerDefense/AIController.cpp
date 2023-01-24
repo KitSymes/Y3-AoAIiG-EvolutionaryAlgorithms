@@ -23,7 +23,7 @@ using namespace std;
 #define MAX_TOWER_ATTEMPTS 200
 
 #define SELECTION TOURNAMENT_SELECTION
-#define CROSSOVER ONE_POINT_CROSSOVER
+#define CROSSOVER UNIFORM_CROSSOVER
 
 AIController::AIController()
 {
