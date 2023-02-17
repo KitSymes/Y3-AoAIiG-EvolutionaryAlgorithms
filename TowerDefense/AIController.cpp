@@ -22,8 +22,8 @@ using namespace std;
 #define GENE_COUNT 12
 #define MAX_TOWER_ATTEMPTS 200
 
-#define SELECTION TOURNAMENT_SELECTION
-#define CROSSOVER UNIFORM_CROSSOVER
+#define SELECTION ROULETTE_SELECTION
+#define CROSSOVER ONE_POINT_CROSSOVER
 
 AIController::AIController()
 {
@@ -148,6 +148,15 @@ void AIController::gameOver()
 
 void AIController::CreateNewGeneration()
 {
+	// Generate a seed so that the results are repeatable
+	unsigned int seed = unsigned int(time(NULL));
+	if (_currentGeneration.contains("seed"))
+		seed = _currentGeneration["seed"];
+	else
+		_currentGeneration["seed"] = seed;
+	srand(seed);
+	SaveCurrentGeneration();
+
 	_currentGene = 0;
 	_currentGenerationNum++;
 
@@ -171,18 +180,37 @@ void AIController::CreateNewGeneration()
 		}
 
 		winners[round] = _currentGeneration["gene_" + to_string(max)];
+	}
+#elif SELECTION == ROULETTE_SELECTION
+
+	int scoreTotal = 0;
+	for (int i = 0; i < GENE_COUNT; i++)
+		scoreTotal += _currentGeneration["gene_" + to_string(i)]["score"];
+
+	for (int round = 0; round < PARENT_COUNT; round++)
+	{
+		int random = rand() % scoreTotal;
+		int buffer = 0;
+		for (int i = 0; i < GENE_COUNT; i++)
+			// Less than because rand is between 0 inclusive and scoreTotal exclusive
+			if (random < buffer + _currentGeneration["gene_" + to_string(i)]["score"])
+			{
+				winners[round] = _currentGeneration["gene_" + to_string(i)];
+				break;
+			}
+			else
+				buffer += _currentGeneration["gene_" + to_string(i)]["score"];
+	}
+#endif
+	_currentGeneration.clear();
+
+	for (int round = 0; round < PARENT_COUNT; round++)
 		for (json tower : winners[round]["towers"])
 		{
 			winningGenes[round] += std::bitset<2>(tower["type"]).to_string();
 			winningGenes[round] += std::bitset<5>(tower["x"]).to_string();
 			winningGenes[round] += std::bitset<5>(tower["y"]).to_string();
 		}
-		OutputDebugStringA(to_string(max).c_str());
-	}
-	OutputDebugStringA("\n");
-	_currentGeneration.clear();
-#elif SELECTION == ROULETTE_SELECTION
-#endif
 
 	int gene = 0;
 	for (int first = 0; first < PARENT_COUNT; first++)
@@ -195,11 +223,11 @@ void AIController::CreateNewGeneration()
 			std::string child;
 			// Crossover
 #if CROSSOVER == ONE_POINT_CROSSOVER
-				// Gene sizes are the same
+			// Gene sizes are the same
 			child = geneA.substr(0, geneA.size() / 2);
 			child += geneB.substr(geneA.size() / 2, string::npos);
 #elif CROSSOVER == UNIFORM_CROSSOVER
-				// A tower placement is 12 bits
+			// A tower placement is 12 bits
 			for (int i = 0; i < geneA.size() / 12; i++)
 			{
 				if (i % 2 == 0)
