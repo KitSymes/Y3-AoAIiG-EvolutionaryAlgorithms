@@ -19,7 +19,7 @@ using namespace std;
 #define UNIFORM_CROSSOVER 1
 
 #define PARENT_COUNT 4
-#define GENE_COUNT 12
+#define GENE_COUNT 16
 #define MAX_TOWER_ATTEMPTS 200
 
 #define SELECTION ROULETTE_SELECTION
@@ -216,26 +216,29 @@ void AIController::CreateNewGeneration()
 	for (int first = 0; first < PARENT_COUNT; first++)
 		for (int second = 0; second < PARENT_COUNT; second++)
 		{
-			if (first == second)
-				continue;
-			std::string geneA = winningGenes[first];
-			std::string geneB = winningGenes[second];
 			std::string child;
-			// Crossover
+			if (first == second)
+				child = winningGenes[first];
+			else
+			{
+				std::string geneA = winningGenes[first];
+				std::string geneB = winningGenes[second];
+				// Crossover
 #if CROSSOVER == ONE_POINT_CROSSOVER
 			// Gene sizes are the same
-			child = geneA.substr(0, geneA.size() / 2);
-			child += geneB.substr(geneA.size() / 2, string::npos);
+				child = geneA.substr(0, geneA.size() / 2);
+				child += geneB.substr(geneA.size() / 2, string::npos);
 #elif CROSSOVER == UNIFORM_CROSSOVER
 			// A tower placement is 12 bits
-			for (int i = 0; i < geneA.size() / 12; i++)
-			{
-				if (i % 2 == 0)
-					child += geneA.substr(i * 12, 12);
-				else
-					child += geneB.substr(i * 12, 12);
-			}
+				for (int i = 0; i < geneA.size() / 12; i++)
+				{
+					if (i % 2 == 0)
+						child += geneA.substr(i * 12, 12);
+					else
+						child += geneB.substr(i * 12, 12);
+				}
 #endif
+			}
 			// Mutation
 			for (int i = 0; i < child.size(); i++)
 			{
