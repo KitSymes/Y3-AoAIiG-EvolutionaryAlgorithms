@@ -23,7 +23,7 @@ public:
 	void setTimer(Timer* timer) { m_Timer = timer; }
 	void setGameState(GameState* gameState) { m_gameState = gameState; }
 	void update();
-	void addTower(TowerType type, int gridx, int gridy);
+	bool addTower(TowerType type, int gridx, int gridy);
 	void gameOver();
 
 	void CreateNewGeneration();
@@ -35,10 +35,13 @@ private:
 	Timer*			m_Timer;
 	GameState*		m_gameState;
 
-	double _elapsedSeconds;
+	int _elapsedSeconds;
+	int _framesPassed;
 	json _currentGeneration;
 	int _currentGenerationNum;
 	int _currentGene;
 	int _currentScore;
+
+	void Log(string output);
 };
 

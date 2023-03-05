@@ -11,6 +11,7 @@
 using namespace std;
 
 #define EXPORT false
+#define REPLAY false
 
 #define TOURNAMENT_SELECTION 0
 #define ROULETTE_SELECTION 1
@@ -18,12 +19,18 @@ using namespace std;
 #define ONE_POINT_CROSSOVER 0
 #define UNIFORM_CROSSOVER 1
 
+#define BIT_STRING_MUTATION 0
+#define SHIFT_MUTATION 1
+
 #define PARENT_COUNT 4
 #define GENE_COUNT 16
 #define MAX_TOWER_ATTEMPTS 200
 
-#define SELECTION ROULETTE_SELECTION
+#define MUTATION_RATE 100 // 1 in MUTATION_RATE chance to mutate
+
+#define SELECTION TOURNAMENT_SELECTION
 #define CROSSOVER ONE_POINT_CROSSOVER
+#define MUTATION SHIFT_MUTATION
 
 AIController::AIController()
 {
@@ -34,8 +41,40 @@ AIController::AIController()
 	m_gameState = nullptr;
 	_elapsedSeconds = 0;
 	_currentScore = 0;
+	_framesPassed = 0;
 
-#if !EXPORT
+#if EXPORT
+
+	std::ofstream o("export.csv");
+
+	_currentGenerationNum = 0;
+	o << ",0,1,2,3,4,5,6,7,8,9,10,11" << std::endl;
+
+	while (true)
+	{
+		std::ifstream f("generation_" + to_string(_currentGenerationNum) + ".json");
+		if (!f.good())
+			break;
+		o << _currentGenerationNum << ",";
+		_currentGeneration = json::parse(f);
+		for (int gene = 0; gene < GENE_COUNT; gene++)
+		{
+			if (!_currentGeneration["gene_" + to_string(gene)].contains("score"))
+				break;
+			o << _currentGeneration["gene_" + to_string(gene)]["score"] << ",";
+		}
+		o << std::endl;
+		_currentGenerationNum++;
+	}
+
+	o.close();
+	exit(0);
+#elif REPLAY
+	_currentGenerationNum = 0;
+	_currentGene = 0;
+	std::ifstream f("generation_" + to_string(_currentGenerationNum) + ".json");
+	_currentGeneration = json::parse(f);
+#else
 	_currentGenerationNum = -1;
 	_currentGene = -1;
 	while (_currentGene < 0)
@@ -77,48 +116,32 @@ AIController::AIController()
 	}
 
 	OutputDebugStringA(("Starting at " + to_string(_currentGenerationNum) + "\n").c_str());
-#else
-
-	std::ofstream o("export.csv");
-
-	_currentGenerationNum = 0;
-	o << ",0,1,2,3,4,5,6,7,8,9,10,11" << std::endl;
-
-	while (true)
-	{
-		std::ifstream f("generation_" + to_string(_currentGenerationNum) + ".json");
-		if (!f.good())
-			break;
-		o << _currentGenerationNum << ",";
-		_currentGeneration = json::parse(f);
-		for (int gene = 0; gene < GENE_COUNT; gene++)
-		{
-			if (!_currentGeneration["gene_" + to_string(gene)].contains("score"))
-				break;
-			o << _currentGeneration["gene_" + to_string(gene)]["score"] << ",";
-		}
-		o << std::endl;
-		_currentGenerationNum++;
-	}
-
-	o.close();
-	exit(0);
 #endif
 }
 
 AIController::~AIController()
 {
-
+	
 }
 
 void AIController::gameOver()
 {
-	_currentGeneration["gene_" + to_string(_currentGene)]["score"] = _currentScore;
-	_currentScore = 0;
-	_currentGene++;
-	_elapsedSeconds = 0;
+	_currentScore = recordScore();
 
+	Log("[" + to_string(_currentGenerationNum) + "," + to_string(_currentGene) + "] Ended after " + to_string(_elapsedSeconds) +
+		" seconds; Waves: " + to_string(m_gameState->getCurrentWave()) +
+		", Kills: " + to_string(m_gameState->getMonsterEliminated()) +
+		", Score: " + to_string(_currentScore) + "\n");
+
+	_currentGeneration["gene_" + to_string(_currentGene)]["score"] = _currentScore;
+
+	_currentScore = 0;
+	_elapsedSeconds = 0;
+	_framesPassed = 0;
+
+#if !REPLAY
 	SaveCurrentGeneration();
+	_currentGene++;
 
 	if (_currentGene >= GENE_COUNT)
 	{
@@ -144,6 +167,7 @@ void AIController::gameOver()
 
 		CreateNewGeneration();
 	}
+#endif
 }
 
 void AIController::CreateNewGeneration()
@@ -166,21 +190,56 @@ void AIController::CreateNewGeneration()
 
 	// Selection
 #if SELECTION == TOURNAMENT_SELECTION
-		// Run tournaments until PARENT_COUNT have been chosen
-	for (int round = 0; round < PARENT_COUNT; round++)
+	// Run tournaments until PARENT_COUNT have been chosen
+	std::vector<int> temp;
+	std::vector<std::vector<int>> tournament;
+
+	// Fill temp with json indexes
+	for (int i = 0; i < GENE_COUNT; i++)
+		temp.push_back(i);
+
+	// Fill out the tournament - there will be the same number of groups as parents
+	for (int groupCount = 0; groupCount < PARENT_COUNT; groupCount++)
 	{
-		int max = round * (GENE_COUNT / PARENT_COUNT);
-		// Compare the genes next to each other - does not need to select random genes to compare as they already have no impact on eachother
+		std::vector<int> group;
+		Log("Group " + to_string(groupCount) + ": ");
+		for (int i = 0; i < (GENE_COUNT / PARENT_COUNT); i++)
+		{
+			// Get a random index of temp
+			int random = rand() % temp.size();
+			// Add the json index at that temp index to the current group
+			group.push_back(temp[random]);
+			Log(to_string(temp[random]) + " (" + to_string(_currentGeneration["gene_" + to_string(temp[random])]["score"]) + ")");
+			if (i < (GENE_COUNT / PARENT_COUNT) - 1)
+				Log(", ");
+			// Erase the temp index to prevent the json index from being chosen more than once
+			temp.erase(temp.begin() + random);
+		}
+		// Add the group to the tournament
+		tournament.push_back(group);
+		Log("\n");
+	}
+
+	Log("Parents are: ");
+	for (int group = 0; group < PARENT_COUNT; group++)
+	{
+		int max = tournament[group][0];
+		// Compare the genes
 		// Start at 1 because 0 is already max by default
 		for (int i = 1; i < GENE_COUNT / PARENT_COUNT; i++)
 		{
-			if (_currentGeneration["gene_" + to_string(i + round * (GENE_COUNT / PARENT_COUNT))]["score"]
+			int current = tournament[group][i];
+			if (_currentGeneration["gene_" + to_string(current)]["score"]
 		> _currentGeneration["gene_" + to_string(max)]["score"])
-				max = i + round * (GENE_COUNT / PARENT_COUNT);
+				max = current;
 		}
 
-		winners[round] = _currentGeneration["gene_" + to_string(max)];
+		winners[group] = _currentGeneration["gene_" + to_string(max)];
+		Log(to_string(max));
+		if (group < PARENT_COUNT - 1)
+			Log(", ");
 	}
+	Log("\n");
 #elif SELECTION == ROULETTE_SELECTION
 
 	int scoreTotal = 0;
@@ -240,18 +299,40 @@ void AIController::CreateNewGeneration()
 #endif
 			}
 			// Mutation
+#if MUTATION == BIT_STRING_MUTATION
 			for (int i = 0; i < child.size(); i++)
 			{
-				if (rand() % 100 < 1)
+				if (rand() % MUTATION_DIV < 1)
 					child.replace(i, 1, child.at(i) == '0' ? "1" : "0");
 			}
+#endif
 
 			while (!child.empty())
 			{
 				json tower;
-				tower["type"] = stoi(child.substr(0, 2), nullptr, 2);
-				tower["x"] = stoi(child.substr(2, 5), nullptr, 2) % 25;
-				tower["y"] = stoi(child.substr(7, 5), nullptr, 2) % 17;
+				int type = stoi(child.substr(0, 2), nullptr, 2);
+				int x = stoi(child.substr(2, 5), nullptr, 2);
+				int y = stoi(child.substr(7, 5), nullptr, 2);
+#if MUTATION == SHIFT_MUTATION
+				if (rand() % MUTATION_RATE < 1)
+				{
+					int shift = (rand() % 3) - 1;
+					type += shift;
+				}
+				if (rand() % MUTATION_RATE < 1)
+				{
+					int shift = (rand() % 3) - 1;
+					x += shift;
+				}
+				if (rand() % MUTATION_RATE < 1)
+				{
+					int shift = (rand() % 3) - 1;
+					y += shift;
+				}
+#endif
+				tower["type"] = type % 4;
+				tower["x"] = x % 25;
+				tower["y"] = y % 17;
 				_currentGeneration["gene_" + to_string(gene)]["towers"].push_back(tower);
 				child.erase(0, 12);
 			}
@@ -277,16 +358,22 @@ void AIController::update()
 	// HINT
 	// a second has elapsed - your GA manager (GA Code) may decide to do something at this time...
 	// static double elapsedSeconds = 0; // Who made this a static inline double? What a mistake
-	double seconds = floor(m_Timer->elapsedSeconds());
-	if (seconds > _elapsedSeconds)
-	{
-		_elapsedSeconds = seconds;
+	//double seconds = floor(m_Timer->elapsedSeconds());
 
-		int index = (int)seconds - 1;
-		if (seconds <= MAX_TOWER_ATTEMPTS)
-			addTower((TowerType)_currentGeneration["gene_" + to_string(_currentGene)]["towers"].at(index)["type"],
+	//while (seconds > _elapsedSeconds)
+	_framesPassed++;
+	while (_framesPassed >= 60.0f)
+	{
+		_elapsedSeconds++;
+		_framesPassed -= 60;
+
+		int index = (int)_elapsedSeconds - 1;
+		if (_elapsedSeconds <= MAX_TOWER_ATTEMPTS)
+			if (addTower((TowerType)_currentGeneration["gene_" + to_string(_currentGene)]["towers"].at(index)["type"],
 				_currentGeneration["gene_" + to_string(_currentGene)]["towers"].at(index)["x"],
-				_currentGeneration["gene_" + to_string(_currentGene)]["towers"].at(index)["y"]);
+				_currentGeneration["gene_" + to_string(_currentGene)]["towers"].at(index)["y"]))
+				Log("Added Tower at " + to_string(_elapsedSeconds) + "\n");
+		//Log(to_string(_elapsedSeconds)) + "\n");
 	}
 
 	//GAManager::Instance()->Update(m_Timer->elapsedSeconds());
@@ -302,7 +389,7 @@ void AIController::update()
 	_currentScore = recordScore();
 }
 
-void AIController::addTower(TowerType type, int gridx, int gridy)
+bool AIController::addTower(TowerType type, int gridx, int gridy)
 {
 	// grid position can be from 0,0 to 25,17
 	/*
@@ -310,7 +397,7 @@ void AIController::addTower(TowerType type, int gridx, int gridy)
 	empty, slammer, swinger, thrower };
 	*/
 
-	bool towerAdded = m_gameBoard->addTower(type, gridx, gridy);
+	return m_gameBoard->addTower(type, gridx, gridy);
 
 	// NOTE towerAdded might be false if the tower can't be placed in that position, is there isn't enough funds
 }
@@ -327,15 +414,24 @@ int AIController::recordScore()
 	currentWave *= 10; // living longer is good
 	int score = currentWave + killCount;
 
-	static int iteration = 0;
+	//static int iteration = 0;
 
-	if (iteration == 0)
-		cout << "iteration" << "," << "wave" << "," << "kills" << "," << "score" << endl;
+	//if (iteration == 0)
+		//cout << "iteration" << "," << "wave" << "," << "kills" << "," << "score" << endl;
 
-	cout << iteration << "," << m_gameState->getCurrentWave() << "," << m_gameState->getMonsterEliminated() << "," << score << endl;
-	iteration++;
+	//cout << iteration << "," << m_gameState->getCurrentWave() << "," << m_gameState->getMonsterEliminated() << "," << score << endl;
+	//iteration++;
 
 	m_gameState->setScore(score);
 
 	return score;
+}
+
+void AIController::Log(string output)
+{
+	cout << output;
+	ofstream myfile;
+	myfile.open("log.txt", ios::out | ios::app);
+	myfile << output;
+	myfile.close();
 }
