@@ -302,7 +302,7 @@ void AIController::CreateNewGeneration()
 #if MUTATION == BIT_STRING_MUTATION
 			for (int i = 0; i < child.size(); i++)
 			{
-				if (rand() % MUTATION_DIV < 1)
+				if (rand() % MUTATION_RATE < 1)
 					child.replace(i, 1, child.at(i) == '0' ? "1" : "0");
 			}
 #endif
