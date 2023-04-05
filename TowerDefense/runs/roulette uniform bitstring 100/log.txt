@@ -1,0 +1,3248 @@
+Added Tower at 2
+Added Tower at 6
+Added Tower at 41
+Added Tower at 74
+[1,0] Ended after 94 seconds; Waves: 5, Kills: 36, Score: 86
+Added Tower at 2
+Added Tower at 7
+Added Tower at 31
+Added Tower at 63
+Added Tower at 84
+[1,1] Ended after 93 seconds; Waves: 5, Kills: 37, Score: 87
+Added Tower at 2
+Added Tower at 4
+Added Tower at 5
+Added Tower at 38
+Added Tower at 73
+[1,2] Ended after 73 seconds; Waves: 4, Kills: 19, Score: 59
+Added Tower at 2
+Added Tower at 6
+Added Tower at 19
+[1,3] Ended after 78 seconds; Waves: 5, Kills: 17, Score: 67
+Added Tower at 1
+Added Tower at 2
+Added Tower at 19
+Added Tower at 42
+Added Tower at 67
+Added Tower at 91
+Added Tower at 95
+[1,4] Ended after 109 seconds; Waves: 6, Kills: 56, Score: 116
+Added Tower at 1
+Added Tower at 2
+Added Tower at 13
+Added Tower at 48
+Added Tower at 52
+Added Tower at 67
+Added Tower at 84
+Added Tower at 91
+Added Tower at 104
+Added Tower at 113
+Added Tower at 122
+[1,5] Ended after 124 seconds; Waves: 7, Kills: 82, Score: 152
+Added Tower at 1
+Added Tower at 2
+Added Tower at 4
+Added Tower at 26
+[1,6] Ended after 72 seconds; Waves: 4, Kills: 16, Score: 56
+Added Tower at 1
+Added Tower at 2
+Added Tower at 13
+Added Tower at 41
+Added Tower at 67
+Added Tower at 79
+Added Tower at 91
+Added Tower at 106
+Added Tower at 111
+[1,7] Ended after 124 seconds; Waves: 7, Kills: 72, Score: 142
+Added Tower at 1
+Added Tower at 2
+[1,8] Ended after 63 seconds; Waves: 4, Kills: 4, Score: 44
+Added Tower at 1
+Added Tower at 2
+Added Tower at 25
+Added Tower at 57
+[1,9] Ended after 84 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 1
+Added Tower at 2
+Added Tower at 4
+Added Tower at 56
+[1,10] Ended after 78 seconds; Waves: 5, Kills: 17, Score: 67
+Added Tower at 1
+Added Tower at 2
+Added Tower at 19
+Added Tower at 79
+[1,11] Ended after 81 seconds; Waves: 5, Kills: 25, Score: 75
+Added Tower at 2
+Added Tower at 3
+Added Tower at 31
+Added Tower at 76
+[1,12] Ended after 78 seconds; Waves: 5, Kills: 19, Score: 69
+Added Tower at 2
+Added Tower at 3
+Added Tower at 15
+Added Tower at 48
+Added Tower at 83
+[1,13] Ended after 83 seconds; Waves: 5, Kills: 28, Score: 78
+Added Tower at 2
+Added Tower at 4
+Added Tower at 5
+[1,14] Ended after 73 seconds; Waves: 4, Kills: 10, Score: 50
+Added Tower at 2
+Added Tower at 3
+Added Tower at 15
+Added Tower at 50
+Added Tower at 87
+[1,15] Ended after 92 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 1
+Added Tower at 2
+Added Tower at 25
+Added Tower at 57
+[2,0] Ended after 84 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 1
+Added Tower at 2
+Added Tower at 31
+Added Tower at 74
+Added Tower at 93
+[2,1] Ended after 93 seconds; Waves: 5, Kills: 37, Score: 87
+Added Tower at 1
+Added Tower at 2
+Added Tower at 19
+[2,2] Ended after 81 seconds; Waves: 5, Kills: 24, Score: 74
+Added Tower at 1
+Added Tower at 2
+Added Tower at 4
+[2,3] Ended after 63 seconds; Waves: 4, Kills: 4, Score: 44
+Added Tower at 2
+Added Tower at 7
+Added Tower at 31
+Added Tower at 63
+Added Tower at 84
+[2,4] Ended after 84 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 2
+Added Tower at 6
+Added Tower at 41
+Added Tower at 75
+[2,5] Ended after 92 seconds; Waves: 5, Kills: 33, Score: 83
+Added Tower at 2
+Added Tower at 6
+[2,6] Ended after 68 seconds; Waves: 4, Kills: 7, Score: 47
+Added Tower at 2
+Added Tower at 4
+Added Tower at 19
+[2,7] Ended after 61 seconds; Waves: 4, Kills: 0, Score: 40
+Added Tower at 7
+Added Tower at 11
+Added Tower at 48
+Added Tower at 67
+[2,8] Ended after 82 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 2
+Added Tower at 6
+Added Tower at 42
+Added Tower at 67
+[2,9] Ended after 81 seconds; Waves: 5, Kills: 26, Score: 76
+Added Tower at 2
+Added Tower at 6
+Added Tower at 19
+[2,10] Ended after 77 seconds; Waves: 5, Kills: 17, Score: 67
+Added Tower at 2
+Added Tower at 4
+Added Tower at 8
+Added Tower at 56
+[2,11] Ended after 71 seconds; Waves: 4, Kills: 11, Score: 51
+Added Tower at 2
+Added Tower at 3
+Added Tower at 15
+Added Tower at 48
+Added Tower at 78
+[2,12] Ended after 84 seconds; Waves: 5, Kills: 28, Score: 78
+Added Tower at 2
+Added Tower at 3
+Added Tower at 31
+Added Tower at 74
+[2,13] Ended after 78 seconds; Waves: 5, Kills: 19, Score: 69
+Added Tower at 2
+Added Tower at 3
+Added Tower at 15
+Added Tower at 50
+Added Tower at 87
+[2,14] Ended after 92 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 2
+Added Tower at 4
+Added Tower at 5
+[2,15] Ended after 73 seconds; Waves: 4, Kills: 10, Score: 50
+Added Tower at 5
+Added Tower at 7
+Added Tower at 19
+Added Tower at 64
+[3,0] Ended after 71 seconds; Waves: 4, Kills: 18, Score: 58
+Added Tower at 2
+Added Tower at 6
+Added Tower at 41
+Added Tower at 73
+Added Tower at 89
+[3,1] Ended after 95 seconds; Waves: 6, Kills: 39, Score: 99
+Added Tower at 2
+Added Tower at 7
+[3,2] Ended after 63 seconds; Waves: 4, Kills: 5, Score: 45
+Added Tower at 2
+Added Tower at 6
+Added Tower at 19
+[3,3] Ended after 78 seconds; Waves: 5, Kills: 17, Score: 67
+Added Tower at 1
+Added Tower at 5
+[3,4] Ended after 63 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 1
+Added Tower at 2
+Added Tower at 31
+Added Tower at 74
+[3,5] Ended after 93 seconds; Waves: 5, Kills: 37, Score: 87
+Added Tower at 5
+Added Tower at 9
+[3,6] Ended after 61 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 1
+Added Tower at 2
+Added Tower at 19
+[3,7] Ended after 81 seconds; Waves: 5, Kills: 25, Score: 75
+Added Tower at 7
+Added Tower at 11
+Added Tower at 48
+Added Tower at 67
+[3,8] Ended after 82 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 2
+Added Tower at 6
+Added Tower at 42
+Added Tower at 67
+[3,9] Ended after 84 seconds; Waves: 5, Kills: 28, Score: 78
+Added Tower at 7
+Added Tower at 11
+Added Tower at 48
+Added Tower at 67
+[3,10] Ended after 85 seconds; Waves: 5, Kills: 32, Score: 82
+Added Tower at 2
+Added Tower at 6
+Added Tower at 19
+[3,11] Ended after 78 seconds; Waves: 5, Kills: 17, Score: 67
+Added Tower at 1
+Added Tower at 5
+[3,12] Ended after 63 seconds; Waves: 4, Kills: 4, Score: 44
+Added Tower at 1
+Added Tower at 2
+Added Tower at 42
+Added Tower at 74
+[3,13] Ended after 81 seconds; Waves: 5, Kills: 24, Score: 74
+Added Tower at 1
+Added Tower at 5
+[3,14] Ended after 63 seconds; Waves: 4, Kills: 4, Score: 44
+Added Tower at 1
+Added Tower at 2
+Added Tower at 19
+[3,15] Ended after 81 seconds; Waves: 5, Kills: 24, Score: 74
+Added Tower at 2
+Added Tower at 6
+Added Tower at 42
+Added Tower at 67
+[4,0] Ended after 81 seconds; Waves: 5, Kills: 26, Score: 76
+Added Tower at 7
+Added Tower at 11
+Added Tower at 48
+Added Tower at 67
+[4,1] Ended after 82 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 7
+Added Tower at 11
+Added Tower at 48
+Added Tower at 75
+[4,2] Ended after 82 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 11
+Added Tower at 14
+Added Tower at 67
+[4,3] Ended after 71 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 1
+Added Tower at 2
+Added Tower at 42
+Added Tower at 74
+[4,4] Ended after 80 seconds; Waves: 5, Kills: 23, Score: 73
+Added Tower at 1
+Added Tower at 5
+[4,5] Ended after 63 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 1
+Added Tower at 5
+[4,6] Ended after 62 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 1
+Added Tower at 5
+[4,7] Ended after 62 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 2
+Added Tower at 5
+Added Tower at 57
+[4,8] Ended after 73 seconds; Waves: 4, Kills: 17, Score: 57
+Added Tower at 5
+Added Tower at 9
+[4,9] Ended after 61 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 5
+Added Tower at 9
+[4,10] Ended after 61 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 5
+Added Tower at 9
+[4,11] Ended after 61 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 2
+Added Tower at 6
+Added Tower at 41
+Added Tower at 73
+Added Tower at 89
+[4,12] Ended after 95 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 7
+Added Tower at 11
+Added Tower at 48
+Added Tower at 67
+[4,13] Ended after 82 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 74
+[4,14] Ended after 81 seconds; Waves: 5, Kills: 29, Score: 79
+Added Tower at 7
+Added Tower at 11
+Added Tower at 48
+Added Tower at 67
+[4,15] Ended after 85 seconds; Waves: 5, Kills: 32, Score: 82
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 67
+[5,0] Ended after 81 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 2
+Added Tower at 6
+Added Tower at 42
+Added Tower at 73
+[5,1] Ended after 76 seconds; Waves: 5, Kills: 21, Score: 71
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 75
+[5,2] Ended after 81 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 2
+Added Tower at 6
+Added Tower at 42
+Added Tower at 67
+[5,3] Ended after 80 seconds; Waves: 5, Kills: 26, Score: 76
+Added Tower at 5
+Added Tower at 9
+[5,4] Ended after 60 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 2
+Added Tower at 5
+Added Tower at 57
+[5,5] Ended after 69 seconds; Waves: 4, Kills: 15, Score: 55
+Added Tower at 5
+Added Tower at 9
+[5,6] Ended after 60 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 2
+Added Tower at 5
+Added Tower at 57
+[5,7] Ended after 73 seconds; Waves: 4, Kills: 17, Score: 57
+Added Tower at 7
+Added Tower at 11
+Added Tower at 48
+Added Tower at 74
+[5,8] Ended after 84 seconds; Waves: 5, Kills: 32, Score: 82
+Added Tower at 2
+Added Tower at 6
+Added Tower at 42
+Added Tower at 73
+[5,9] Ended after 81 seconds; Waves: 5, Kills: 26, Score: 76
+Added Tower at 7
+Added Tower at 11
+Added Tower at 48
+Added Tower at 75
+[5,10] Ended after 85 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 2
+Added Tower at 6
+Added Tower at 42
+Added Tower at 74
+[5,11] Ended after 83 seconds; Waves: 5, Kills: 28, Score: 78
+Added Tower at 7
+Added Tower at 11
+Added Tower at 48
+Added Tower at 67
+[5,12] Ended after 79 seconds; Waves: 5, Kills: 28, Score: 78
+Added Tower at 2
+Added Tower at 6
+Added Tower at 42
+Added Tower at 67
+[5,13] Ended after 81 seconds; Waves: 5, Kills: 26, Score: 76
+Added Tower at 7
+Added Tower at 12
+Added Tower at 48
+Added Tower at 63
+Added Tower at 83
+[5,14] Ended after 95 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 42
+Added Tower at 67
+[5,15] Ended after 84 seconds; Waves: 5, Kills: 28, Score: 78
+Added Tower at 2
+Added Tower at 5
+Added Tower at 57
+[6,0] Ended after 73 seconds; Waves: 4, Kills: 17, Score: 57
+Added Tower at 5
+Added Tower at 9
+[6,1] Ended after 61 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 5
+Added Tower at 9
+[6,2] Ended after 61 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 2
+Added Tower at 3
+Added Tower at 42
+Added Tower at 70
+[6,3] Ended after 85 seconds; Waves: 5, Kills: 32, Score: 82
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 67
+[6,4] Ended after 84 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 67
+[6,5] Ended after 83 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 67
+[6,6] Ended after 83 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 89
+Added Tower at 109
+[6,7] Ended after 111 seconds; Waves: 7, Kills: 58, Score: 128
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[6,8] Ended after 96 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 67
+[6,9] Ended after 82 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 67
+[6,10] Ended after 82 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 74
+Added Tower at 109
+[6,11] Ended after 109 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 2
+Added Tower at 5
+Added Tower at 57
+[6,12] Ended after 76 seconds; Waves: 5, Kills: 18, Score: 68
+Added Tower at 4
+Added Tower at 5
+Added Tower at 64
+[6,13] Ended after 71 seconds; Waves: 4, Kills: 15, Score: 55
+Added Tower at 5
+Added Tower at 9
+[6,14] Ended after 60 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 2
+Added Tower at 5
+Added Tower at 57
+[6,15] Ended after 73 seconds; Waves: 4, Kills: 17, Score: 57
+Added Tower at 2
+Added Tower at 4
+Added Tower at 63
+[7,0] Ended after 69 seconds; Waves: 4, Kills: 15, Score: 55
+Added Tower at 7
+Added Tower at 14
+Added Tower at 63
+[7,1] Ended after 70 seconds; Waves: 4, Kills: 15, Score: 55
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 67
+[7,2] Ended after 82 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 50
+Added Tower at 74
+Added Tower at 86
+Added Tower at 109
+[7,3] Ended after 110 seconds; Waves: 7, Kills: 59, Score: 129
+Added Tower at 2
+Added Tower at 5
+Added Tower at 57
+[7,4] Ended after 73 seconds; Waves: 4, Kills: 17, Score: 57
+Added Tower at 9
+Added Tower at 11
+Added Tower at 20
+Added Tower at 48
+Added Tower at 74
+Added Tower at 88
+[7,5] Ended after 104 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 5
+Added Tower at 9
+[7,6] Ended after 61 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 2
+Added Tower at 5
+[7,7] Ended after 71 seconds; Waves: 4, Kills: 14, Score: 54
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 74
+Added Tower at 108
+[7,8] Ended after 108 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 67
+[7,9] Ended after 82 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 74
+[7,10] Ended after 81 seconds; Waves: 5, Kills: 29, Score: 79
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 74
+Added Tower at 93
+[7,11] Ended after 110 seconds; Waves: 6, Kills: 57, Score: 117
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 74
+Added Tower at 109
+[7,12] Ended after 109 seconds; Waves: 6, Kills: 55, Score: 115
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 74
+[7,13] Ended after 81 seconds; Waves: 5, Kills: 29, Score: 79
+Added Tower at 7
+Added Tower at 11
+Added Tower at 47
+Added Tower at 67
+[7,14] Ended after 82 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 72
+Added Tower at 89
+[7,15] Ended after 113 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 55
+Added Tower at 86
+[8,0] Ended after 94 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 74
+Added Tower at 108
+[8,1] Ended after 108 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 2
+Added Tower at 4
+Added Tower at 63
+[8,2] Ended after 71 seconds; Waves: 4, Kills: 14, Score: 54
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 65
+Added Tower at 83
+[8,3] Ended after 108 seconds; Waves: 6, Kills: 51, Score: 111
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 74
+Added Tower at 86
+Added Tower at 116
+[8,4] Ended after 122 seconds; Waves: 7, Kills: 63, Score: 133
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 74
+Added Tower at 93
+[8,5] Ended after 110 seconds; Waves: 6, Kills: 54, Score: 114
+Added Tower at 2
+Added Tower at 4
+Added Tower at 63
+[8,6] Ended after 71 seconds; Waves: 4, Kills: 14, Score: 54
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 74
+Added Tower at 86
+Added Tower at 109
+[8,7] Ended after 121 seconds; Waves: 7, Kills: 63, Score: 133
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[8,8] Ended after 106 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+[8,9] Ended after 105 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 2
+Added Tower at 4
+Added Tower at 63
+[8,10] Ended after 71 seconds; Waves: 4, Kills: 14, Score: 54
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[8,11] Ended after 98 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 63
+Added Tower at 81
+Added Tower at 105
+[8,12] Ended after 108 seconds; Waves: 6, Kills: 50, Score: 110
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 93
+[8,13] Ended after 95 seconds; Waves: 6, Kills: 35, Score: 95
+Added Tower at 2
+Added Tower at 4
+Added Tower at 63
+[8,14] Ended after 71 seconds; Waves: 4, Kills: 16, Score: 56
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 59
+Added Tower at 86
+[8,15] Ended after 103 seconds; Waves: 6, Kills: 49, Score: 109
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[9,0] Ended after 106 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 63
+Added Tower at 75
+[9,1] Ended after 98 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 63
+Added Tower at 81
+Added Tower at 105
+[9,2] Ended after 108 seconds; Waves: 6, Kills: 51, Score: 111
+Added Tower at 1
+Added Tower at 2
+Added Tower at 42
+Added Tower at 74
+[9,3] Ended after 80 seconds; Waves: 5, Kills: 23, Score: 73
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 83
+Added Tower at 93
+[9,4] Ended after 95 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 4
+Added Tower at 63
+[9,5] Ended after 71 seconds; Waves: 4, Kills: 16, Score: 56
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 83
+[9,6] Ended after 95 seconds; Waves: 6, Kills: 42, Score: 102
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 54
+Added Tower at 83
+[9,7] Ended after 104 seconds; Waves: 6, Kills: 46, Score: 106
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[9,8] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 4
+Added Tower at 5
+[9,9] Ended after 61 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 71
+Added Tower at 91
+Added Tower at 116
+[9,10] Ended after 121 seconds; Waves: 7, Kills: 64, Score: 134
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 93
+[9,11] Ended after 108 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[9,12] Ended after 98 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 4
+[9,13] Ended after 61 seconds; Waves: 4, Kills: 0, Score: 40
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 63
+Added Tower at 72
+Added Tower at 93
+[9,14] Ended after 110 seconds; Waves: 6, Kills: 56, Score: 116
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 75
+[9,15] Ended after 108 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 65
+Added Tower at 86
+[10,0] Ended after 107 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+[10,1] Ended after 98 seconds; Waves: 6, Kills: 44, Score: 104
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[10,2] Ended after 98 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 55
+Added Tower at 73
+Added Tower at 93
+[10,3] Ended after 109 seconds; Waves: 6, Kills: 55, Score: 115
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 93
+[10,4] Ended after 109 seconds; Waves: 6, Kills: 54, Score: 114
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[10,5] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 83
+Added Tower at 96
+Added Tower at 116
+[10,6] Ended after 125 seconds; Waves: 7, Kills: 77, Score: 147
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 54
+Added Tower at 71
+Added Tower at 96
+[10,7] Ended after 105 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 6
+Added Tower at 9
+Added Tower at 14
+Added Tower at 47
+Added Tower at 75
+[10,8] Ended after 95 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 1
+Added Tower at 6
+Added Tower at 18
+Added Tower at 63
+[10,9] Ended after 87 seconds; Waves: 5, Kills: 29, Score: 79
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[10,10] Ended after 96 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 75
+Added Tower at 96
+[10,11] Ended after 108 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 93
+[10,12] Ended after 107 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 93
+Added Tower at 116
+[10,13] Ended after 121 seconds; Waves: 7, Kills: 67, Score: 137
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 67
+Added Tower at 93
+[10,14] Ended after 108 seconds; Waves: 6, Kills: 55, Score: 115
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 71
+Added Tower at 93
+[10,15] Ended after 106 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 18
+Added Tower at 63
+[11,0] Ended after 91 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 6
+Added Tower at 10
+[11,1] Ended after 69 seconds; Waves: 4, Kills: 6, Score: 46
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 93
+[11,2] Ended after 107 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 102
+[11,3] Ended after 106 seconds; Waves: 6, Kills: 49, Score: 109
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 74
+Added Tower at 91
+[11,4] Ended after 112 seconds; Waves: 7, Kills: 58, Score: 128
+Added Tower at 6
+Added Tower at 7
+[11,5] Ended after 70 seconds; Waves: 4, Kills: 7, Score: 47
+Added Tower at 2
+Added Tower at 6
+Added Tower at 42
+Added Tower at 67
+[11,6] Ended after 90 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 6
+Added Tower at 36
+Added Tower at 75
+[11,7] Ended after 79 seconds; Waves: 5, Kills: 25, Score: 75
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 86
+Added Tower at 109
+[11,8] Ended after 110 seconds; Waves: 7, Kills: 60, Score: 130
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 63
+Added Tower at 71
+Added Tower at 93
+[11,9] Ended after 108 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 59
+Added Tower at 71
+Added Tower at 93
+Added Tower at 108
+Added Tower at 116
+Added Tower at 128
+[11,10] Ended after 137 seconds; Waves: 8, Kills: 78, Score: 158
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 102
+[11,11] Ended after 108 seconds; Waves: 6, Kills: 51, Score: 111
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[11,12] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 59
+Added Tower at 71
+Added Tower at 96
+[11,13] Ended after 106 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 96
+Added Tower at 116
+Added Tower at 123
+[11,14] Ended after 127 seconds; Waves: 7, Kills: 79, Score: 149
+Added Tower at 2
+Added Tower at 6
+Added Tower at 18
+Added Tower at 67
+[11,15] Ended after 78 seconds; Waves: 5, Kills: 20, Score: 70
+Added Tower at 2
+Added Tower at 6
+Added Tower at 36
+Added Tower at 63
+Added Tower at 83
+Added Tower at 93
+[12,0] Ended after 94 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[12,1] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 67
+Added Tower at 86
+[12,2] Ended after 109 seconds; Waves: 6, Kills: 55, Score: 115
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 86
+Added Tower at 109
+[12,3] Ended after 109 seconds; Waves: 7, Kills: 60, Score: 130
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 102
+[12,4] Ended after 104 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[12,5] Ended after 98 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 96
+[12,6] Ended after 107 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[12,7] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 102
+[12,8] Ended after 104 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 105
+Added Tower at 116
+[12,9] Ended after 122 seconds; Waves: 7, Kills: 73, Score: 143
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 91
+[12,10] Ended after 108 seconds; Waves: 6, Kills: 56, Score: 116
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 105
+Added Tower at 116
+[12,11] Ended after 121 seconds; Waves: 7, Kills: 73, Score: 143
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+[12,12] Ended after 104 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[12,13] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 83
+Added Tower at 96
+Added Tower at 116
+Added Tower at 123
+[12,14] Ended after 124 seconds; Waves: 7, Kills: 76, Score: 146
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 86
+[12,15] Ended after 107 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 67
+Added Tower at 86
+[13,0] Ended after 96 seconds; Waves: 6, Kills: 42, Score: 102
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+[13,1] Ended after 97 seconds; Waves: 6, Kills: 42, Score: 102
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+[13,2] Ended after 104 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[13,3] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[13,4] Ended after 107 seconds; Waves: 6, Kills: 49, Score: 109
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 96
+[13,5] Ended after 108 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 86
+Added Tower at 105
+[13,6] Ended after 112 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[13,7] Ended after 104 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 96
+Added Tower at 116
+Added Tower at 123
+[13,8] Ended after 127 seconds; Waves: 7, Kills: 79, Score: 149
+Added Tower at 2
+Added Tower at 6
+[13,9] Ended after 70 seconds; Waves: 4, Kills: 6, Score: 46
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[13,10] Ended after 98 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 105
+Added Tower at 116
+[13,11] Ended after 122 seconds; Waves: 7, Kills: 73, Score: 143
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[13,12] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 93
+[13,13] Ended after 108 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 86
+[13,14] Ended after 94 seconds; Waves: 6, Kills: 38, Score: 98
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[13,15] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[14,0] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 94
+Added Tower at 116
+Added Tower at 118
+Added Tower at 123
+[14,1] Ended after 127 seconds; Waves: 7, Kills: 79, Score: 149
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[14,2] Ended after 110 seconds; Waves: 6, Kills: 54, Score: 114
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+[14,3] Ended after 107 seconds; Waves: 6, Kills: 49, Score: 109
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 71
+Added Tower at 92
+Added Tower at 105
+[14,4] Ended after 110 seconds; Waves: 6, Kills: 57, Score: 117
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+[14,5] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[14,6] Ended after 110 seconds; Waves: 6, Kills: 54, Score: 114
+Added Tower at 2
+Added Tower at 6
+Added Tower at 36
+Added Tower at 63
+Added Tower at 83
+[14,7] Ended after 94 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 86
+Added Tower at 96
+Added Tower at 116
+[14,8] Ended after 122 seconds; Waves: 7, Kills: 67, Score: 137
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[14,9] Ended after 110 seconds; Waves: 6, Kills: 54, Score: 114
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[14,10] Ended after 110 seconds; Waves: 6, Kills: 54, Score: 114
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 102
+[14,11] Ended after 109 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[14,12] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 47
+Added Tower at 70
+Added Tower at 92
+[14,13] Ended after 100 seconds; Waves: 6, Kills: 50, Score: 110
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 47
+Added Tower at 67
+Added Tower at 94
+[14,14] Ended after 103 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 71
+Added Tower at 102
+[14,15] Ended after 102 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 105
+Added Tower at 116
+[15,0] Ended after 121 seconds; Waves: 7, Kills: 72, Score: 142
+Added Tower at 2
+Added Tower at 6
+Added Tower at 38
+Added Tower at 63
+Added Tower at 86
+[15,1] Ended after 108 seconds; Waves: 6, Kills: 50, Score: 110
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 67
+Added Tower at 83
+[15,2] Ended after 109 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[15,3] Ended after 108 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 54
+Added Tower at 71
+[15,4] Ended after 96 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 92
+[15,5] Ended after 94 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[15,6] Ended after 107 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[15,7] Ended after 107 seconds; Waves: 6, Kills: 50, Score: 110
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 71
+Added Tower at 92
+[15,8] Ended after 110 seconds; Waves: 6, Kills: 58, Score: 118
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[15,9] Ended after 98 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+[15,10] Ended after 109 seconds; Waves: 7, Kills: 58, Score: 128
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 109
+[15,11] Ended after 110 seconds; Waves: 7, Kills: 60, Score: 130
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 83
+[15,12] Ended after 107 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[15,13] Ended after 97 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 19
+Added Tower at 63
+Added Tower at 83
+[15,14] Ended after 96 seconds; Waves: 6, Kills: 39, Score: 99
+Added Tower at 2
+Added Tower at 7
+Added Tower at 34
+Added Tower at 63
+Added Tower at 76
+Added Tower at 92
+[15,15] Ended after 109 seconds; Waves: 6, Kills: 54, Score: 114
+Added Tower at 2
+Added Tower at 3
+Added Tower at 18
+Added Tower at 47
+Added Tower at 83
+[16,0] Ended after 84 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 94
+Added Tower at 112
+[16,1] Ended after 122 seconds; Waves: 7, Kills: 73, Score: 143
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 94
+Added Tower at 105
+[16,2] Ended after 122 seconds; Waves: 7, Kills: 67, Score: 137
+Added Tower at 2
+Added Tower at 7
+Added Tower at 47
+Added Tower at 63
+Added Tower at 83
+[16,3] Ended after 84 seconds; Waves: 5, Kills: 33, Score: 83
+Added Tower at 2
+Added Tower at 4
+Added Tower at 47
+Added Tower at 70
+Added Tower at 92
+[16,4] Ended after 94 seconds; Waves: 6, Kills: 39, Score: 99
+Added Tower at 2
+Added Tower at 4
+Added Tower at 47
+Added Tower at 70
+Added Tower at 92
+[16,5] Ended after 97 seconds; Waves: 6, Kills: 42, Score: 102
+Added Tower at 6
+Added Tower at 10
+[16,6] Ended after 69 seconds; Waves: 4, Kills: 7, Score: 47
+Added Tower at 2
+Added Tower at 7
+Added Tower at 47
+Added Tower at 63
+Added Tower at 83
+[16,7] Ended after 84 seconds; Waves: 5, Kills: 33, Score: 83
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 105
+[16,8] Ended after 111 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 92
+[16,9] Ended after 92 seconds; Waves: 5, Kills: 36, Score: 86
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 109
+[16,10] Ended after 111 seconds; Waves: 7, Kills: 60, Score: 130
+Added Tower at 2
+Added Tower at 7
+Added Tower at 53
+Added Tower at 63
+Added Tower at 83
+[16,11] Ended after 94 seconds; Waves: 5, Kills: 41, Score: 91
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 86
+Added Tower at 105
+[16,12] Ended after 112 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 18
+Added Tower at 70
+[16,13] Ended after 82 seconds; Waves: 5, Kills: 25, Score: 75
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[16,14] Ended after 111 seconds; Waves: 6, Kills: 54, Score: 114
+Added Tower at 2
+Added Tower at 7
+Added Tower at 34
+Added Tower at 63
+Added Tower at 82
+[16,15] Ended after 110 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 86
+Added Tower at 105
+[17,0] Ended after 113 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 19
+Added Tower at 63
+Added Tower at 92
+[17,1] Ended after 93 seconds; Waves: 5, Kills: 36, Score: 86
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 59
+Added Tower at 73
+Added Tower at 92
+Added Tower at 116
+[17,2] Ended after 122 seconds; Waves: 7, Kills: 66, Score: 136
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 55
+Added Tower at 70
+Added Tower at 83
+Added Tower at 92
+Added Tower at 112
+Added Tower at 123
+Added Tower at 130
+[17,3] Ended after 140 seconds; Waves: 8, Kills: 88, Score: 168
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 109
+[17,4] Ended after 111 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 109
+[17,5] Ended after 111 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 109
+[17,6] Ended after 111 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 67
+Added Tower at 83
+Added Tower at 105
+[17,7] Ended after 111 seconds; Waves: 6, Kills: 60, Score: 120
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 109
+[17,8] Ended after 112 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 109
+[17,9] Ended after 111 seconds; Waves: 7, Kills: 60, Score: 130
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 112
+[17,10] Ended after 112 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 45
+Added Tower at 70
+Added Tower at 91
+[17,11] Ended after 92 seconds; Waves: 5, Kills: 39, Score: 89
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 105
+[17,12] Ended after 111 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 70
+Added Tower at 92
+[17,13] Ended after 95 seconds; Waves: 6, Kills: 39, Score: 99
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 73
+Added Tower at 92
+[17,14] Ended after 114 seconds; Waves: 7, Kills: 58, Score: 128
+Added Tower at 2
+Added Tower at 6
+Added Tower at 47
+[17,15] Ended after 80 seconds; Waves: 5, Kills: 22, Score: 72
+Added Tower at 2
+Added Tower at 7
+Added Tower at 70
+[18,0] Ended after 71 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 50
+Added Tower at 73
+[18,1] Ended after 105 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 1
+Added Tower at 2
+Added Tower at 33
+Added Tower at 56
+Added Tower at 76
+[18,2] Ended after 98 seconds; Waves: 6, Kills: 44, Score: 104
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 91
+Added Tower at 109
+[18,3] Ended after 122 seconds; Waves: 7, Kills: 66, Score: 136
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 64
+Added Tower at 76
+Added Tower at 92
+[18,4] Ended after 113 seconds; Waves: 7, Kills: 60, Score: 130
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 59
+Added Tower at 73
+Added Tower at 92
+Added Tower at 116
+[18,5] Ended after 122 seconds; Waves: 7, Kills: 66, Score: 136
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 56
+Added Tower at 93
+[18,6] Ended after 93 seconds; Waves: 6, Kills: 36, Score: 96
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 59
+Added Tower at 73
+Added Tower at 92
+Added Tower at 119
+[18,7] Ended after 122 seconds; Waves: 7, Kills: 67, Score: 137
+Added Tower at 2
+Added Tower at 6
+Added Tower at 38
+Added Tower at 63
+Added Tower at 92
+[18,8] Ended after 99 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 50
+Added Tower at 73
+[18,9] Ended after 104 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 3
+[18,10] Ended after 69 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 6
+Added Tower at 18
+Added Tower at 47
+Added Tower at 83
+[18,11] Ended after 96 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 38
+Added Tower at 70
+Added Tower at 94
+[18,12] Ended after 95 seconds; Waves: 6, Kills: 39, Score: 99
+Added Tower at 2
+Added Tower at 6
+Added Tower at 47
+Added Tower at 67
+[18,13] Ended after 89 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 56
+Added Tower at 92
+[18,14] Ended after 94 seconds; Waves: 6, Kills: 36, Score: 96
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 76
+[18,15] Ended after 97 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 91
+Added Tower at 109
+[19,0] Ended after 121 seconds; Waves: 7, Kills: 64, Score: 134
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 50
+Added Tower at 73
+[19,1] Ended after 95 seconds; Waves: 6, Kills: 44, Score: 104
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 50
+Added Tower at 73
+[19,2] Ended after 97 seconds; Waves: 6, Kills: 44, Score: 104
+Added Tower at 2
+Added Tower at 5
+Added Tower at 18
+Added Tower at 50
+[19,3] Ended after 81 seconds; Waves: 5, Kills: 28, Score: 78
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 59
+Added Tower at 73
+Added Tower at 92
+Added Tower at 119
+[19,4] Ended after 121 seconds; Waves: 7, Kills: 64, Score: 134
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 64
+Added Tower at 76
+Added Tower at 92
+[19,5] Ended after 110 seconds; Waves: 7, Kills: 59, Score: 129
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 64
+Added Tower at 83
+[19,6] Ended after 96 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 59
+Added Tower at 73
+Added Tower at 92
+Added Tower at 108
+Added Tower at 116
+[19,7] Ended after 122 seconds; Waves: 7, Kills: 67, Score: 137
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 91
+Added Tower at 105
+[19,8] Ended after 122 seconds; Waves: 7, Kills: 64, Score: 134
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 91
+Added Tower at 119
+Added Tower at 128
+Added Tower at 140
+Added Tower at 142
+[19,9] Ended after 142 seconds; Waves: 8, Kills: 88, Score: 168
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 50
+Added Tower at 73
+[19,10] Ended after 98 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 2
+Added Tower at 6
+Added Tower at 47
+Added Tower at 67
+[19,11] Ended after 89 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 91
+Added Tower at 119
+[19,12] Ended after 121 seconds; Waves: 7, Kills: 63, Score: 133
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+[19,13] Ended after 98 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 50
+Added Tower at 76
+[19,14] Ended after 107 seconds; Waves: 6, Kills: 49, Score: 109
+Added Tower at 2
+Added Tower at 6
+Added Tower at 47
+Added Tower at 67
+[19,15] Ended after 89 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 92
+Added Tower at 107
+[20,0] Ended after 111 seconds; Waves: 7, Kills: 57, Score: 127
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 92
+[20,1] Ended after 105 seconds; Waves: 6, Kills: 46, Score: 106
+Added Tower at 2
+Added Tower at 6
+Added Tower at 47
+Added Tower at 70
+[20,2] Ended after 89 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 92
+Added Tower at 118
+Added Tower at 123
+Added Tower at 128
+[20,3] Ended after 137 seconds; Waves: 8, Kills: 82, Score: 162
+Added Tower at 1
+Added Tower at 2
+Added Tower at 18
+[20,4] Ended after 78 seconds; Waves: 5, Kills: 17, Score: 67
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 67
+Added Tower at 83
+[20,5] Ended after 89 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 6
+Added Tower at 47
+Added Tower at 67
+[20,6] Ended after 90 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 105
+[20,7] Ended after 109 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 2
+Added Tower at 5
+Added Tower at 18
+Added Tower at 70
+[20,8] Ended after 77 seconds; Waves: 5, Kills: 19, Score: 69
+Added Tower at 2
+Added Tower at 5
+Added Tower at 19
+Added Tower at 73
+[20,9] Ended after 74 seconds; Waves: 4, Kills: 18, Score: 58
+Added Tower at 2
+Added Tower at 5
+Added Tower at 18
+Added Tower at 47
+[20,10] Ended after 79 seconds; Waves: 5, Kills: 28, Score: 78
+Added Tower at 2
+Added Tower at 5
+Added Tower at 31
+Added Tower at 68
+[20,11] Ended after 81 seconds; Waves: 5, Kills: 26, Score: 76
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 50
+Added Tower at 73
+[20,12] Ended after 105 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 68
+Added Tower at 83
+Added Tower at 91
+Added Tower at 109
+[20,13] Ended after 126 seconds; Waves: 7, Kills: 76, Score: 146
+Added Tower at 2
+Added Tower at 7
+Added Tower at 47
+Added Tower at 67
+[20,14] Ended after 82 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 93
+Added Tower at 119
+[20,15] Ended after 124 seconds; Waves: 7, Kills: 73, Score: 143
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 92
+[21,0] Ended after 105 seconds; Waves: 6, Kills: 46, Score: 106
+Added Tower at 2
+Added Tower at 4
+Added Tower at 19
+Added Tower at 63
+Added Tower at 83
+[21,1] Ended after 93 seconds; Waves: 5, Kills: 33, Score: 83
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 92
+[21,2] Ended after 92 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 86
+[21,3] Ended after 104 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 6
+Added Tower at 7
+Added Tower at 47
+[21,4] Ended after 75 seconds; Waves: 5, Kills: 19, Score: 69
+Added Tower at 2
+Added Tower at 4
+Added Tower at 47
+Added Tower at 67
+Added Tower at 86
+[21,5] Ended after 91 seconds; Waves: 6, Kills: 38, Score: 98
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 105
+[21,6] Ended after 106 seconds; Waves: 6, Kills: 56, Score: 116
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 93
+[21,7] Ended after 97 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 91
+[21,8] Ended after 92 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 67
+[21,9] Ended after 81 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+[21,10] Ended after 86 seconds; Waves: 6, Kills: 38, Score: 98
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 67
+[21,11] Ended after 78 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+[21,12] Ended after 80 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 7
+Added Tower at 45
+Added Tower at 66
+[21,13] Ended after 75 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+[21,14] Ended after 87 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+Added Tower at 93
+[21,15] Ended after 97 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 63
+Added Tower at 82
+Added Tower at 93
+[22,0] Ended after 102 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 6
+Added Tower at 7
+Added Tower at 53
+Added Tower at 67
+[22,1] Ended after 74 seconds; Waves: 5, Kills: 24, Score: 74
+Added Tower at 6
+Added Tower at 7
+Added Tower at 53
+Added Tower at 67
+[22,2] Ended after 74 seconds; Waves: 5, Kills: 24, Score: 74
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 105
+Added Tower at 115
+[22,3] Ended after 118 seconds; Waves: 7, Kills: 66, Score: 136
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+Added Tower at 105
+[22,4] Ended after 111 seconds; Waves: 7, Kills: 62, Score: 132
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 105
+[22,5] Ended after 107 seconds; Waves: 6, Kills: 59, Score: 119
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 93
+[22,6] Ended after 108 seconds; Waves: 6, Kills: 55, Score: 115
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 73
+Added Tower at 86
+Added Tower at 105
+[22,7] Ended after 110 seconds; Waves: 7, Kills: 60, Score: 130
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 73
+Added Tower at 91
+Added Tower at 109
+[22,8] Ended after 110 seconds; Waves: 7, Kills: 59, Score: 129
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 53
+Added Tower at 67
+Added Tower at 83
+Added Tower at 91
+[22,9] Ended after 110 seconds; Waves: 6, Kills: 63, Score: 123
+Added Tower at 1
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 76
+Added Tower at 91
+[22,10] Ended after 110 seconds; Waves: 7, Kills: 54, Score: 124
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 91
+Added Tower at 109
+Added Tower at 128
+Added Tower at 133
+[22,11] Ended after 141 seconds; Waves: 8, Kills: 89, Score: 169
+Added Tower at 2
+Added Tower at 7
+Added Tower at 47
+Added Tower at 67
+[22,12] Ended after 82 seconds; Waves: 5, Kills: 31, Score: 81
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 86
+Added Tower at 105
+[22,13] Ended after 110 seconds; Waves: 6, Kills: 57, Score: 117
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 86
+Added Tower at 105
+[22,14] Ended after 109 seconds; Waves: 7, Kills: 59, Score: 129
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 89
+[22,15] Ended after 92 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 63
+Added Tower at 70
+Added Tower at 91
+Added Tower at 107
+[23,0] Ended after 112 seconds; Waves: 6, Kills: 58, Score: 118
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 70
+Added Tower at 91
+[23,1] Ended after 100 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 2
+Added Tower at 3
+Added Tower at 31
+Added Tower at 67
+Added Tower at 91
+[23,2] Ended after 97 seconds; Waves: 6, Kills: 38, Score: 98
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 63
+Added Tower at 73
+Added Tower at 86
+[23,3] Ended after 111 seconds; Waves: 7, Kills: 59, Score: 129
+Added Tower at 6
+Added Tower at 7
+Added Tower at 44
+Added Tower at 70
+[23,4] Ended after 79 seconds; Waves: 5, Kills: 24, Score: 74
+Added Tower at 2
+Added Tower at 6
+Added Tower at 19
+Added Tower at 63
+Added Tower at 92
+[23,5] Ended after 93 seconds; Waves: 5, Kills: 36, Score: 86
+Added Tower at 2
+Added Tower at 6
+Added Tower at 23
+Added Tower at 47
+Added Tower at 70
+Added Tower at 91
+[23,6] Ended after 110 seconds; Waves: 7, Kills: 58, Score: 128
+Added Tower at 6
+Added Tower at 7
+Added Tower at 47
+Added Tower at 70
+[23,7] Ended after 80 seconds; Waves: 5, Kills: 24, Score: 74
+Added Tower at 6
+Added Tower at 8
+[23,8] Ended after 70 seconds; Waves: 4, Kills: 6, Score: 46
+Added Tower at 2
+Added Tower at 6
+Added Tower at 23
+Added Tower at 53
+Added Tower at 83
+Added Tower at 105
+[23,9] Ended after 107 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 6
+Added Tower at 8
+Added Tower at 47
+[23,10] Ended after 77 seconds; Waves: 5, Kills: 13, Score: 63
+Added Tower at 6
+Added Tower at 8
+[23,11] Ended after 72 seconds; Waves: 4, Kills: 7, Score: 47
+Added Tower at 1
+Added Tower at 6
+Added Tower at 34
+Added Tower at 59
+Added Tower at 83
+[23,12] Ended after 110 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 6
+Added Tower at 23
+Added Tower at 53
+Added Tower at 83
+[23,13] Ended after 100 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 63
+Added Tower at 76
+Added Tower at 91
+Added Tower at 105
+[23,14] Ended after 108 seconds; Waves: 6, Kills: 55, Score: 115
+Added Tower at 1
+Added Tower at 2
+[23,15] Ended after 57 seconds; Waves: 4, Kills: 4, Score: 44
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 53
+Added Tower at 67
+Added Tower at 83
+[24,0] Ended after 92 seconds; Waves: 6, Kills: 49, Score: 109
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 66
+Added Tower at 83
+Added Tower at 92
+[24,1] Ended after 95 seconds; Waves: 6, Kills: 57, Score: 117
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 59
+[24,2] Ended after 81 seconds; Waves: 6, Kills: 39, Score: 99
+Added Tower at 6
+Added Tower at 7
+Added Tower at 45
+[24,3] Ended after 70 seconds; Waves: 5, Kills: 24, Score: 74
+Added Tower at 6
+Added Tower at 8
+[24,4] Ended after 60 seconds; Waves: 4, Kills: 7, Score: 47
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 61
+[24,5] Ended after 83 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 67
+[24,6] Ended after 84 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 6
+Added Tower at 7
+Added Tower at 45
+Added Tower at 63
+[24,7] Ended after 70 seconds; Waves: 5, Kills: 22, Score: 72
+Added Tower at 6
+Added Tower at 8
+[24,8] Ended after 60 seconds; Waves: 4, Kills: 7, Score: 47
+Added Tower at 2
+Added Tower at 6
+Added Tower at 23
+Added Tower at 54
+Added Tower at 67
+[24,9] Ended after 77 seconds; Waves: 5, Kills: 34, Score: 84
+Added Tower at 2
+Added Tower at 6
+Added Tower at 23
+Added Tower at 53
+Added Tower at 67
+Added Tower at 83
+[24,10] Ended after 83 seconds; Waves: 6, Kills: 44, Score: 104
+Added Tower at 6
+Added Tower at 8
+Added Tower at 47
+[24,11] Ended after 60 seconds; Waves: 4, Kills: 7, Score: 47
+Added Tower at 6
+Added Tower at 7
+Added Tower at 45
+[24,12] Ended after 67 seconds; Waves: 5, Kills: 24, Score: 74
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[24,13] Ended after 81 seconds; Waves: 6, Kills: 38, Score: 98
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 94
+Added Tower at 105
+[24,14] Ended after 114 seconds; Waves: 7, Kills: 68, Score: 138
+Added Tower at 6
+Added Tower at 7
+Added Tower at 53
+Added Tower at 63
+[24,15] Ended after 72 seconds; Waves: 5, Kills: 25, Score: 75
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 83
+[25,0] Ended after 88 seconds; Waves: 6, Kills: 42, Score: 102
+Added Tower at 6
+Added Tower at 7
+Added Tower at 55
+Added Tower at 76
+[25,1] Ended after 83 seconds; Waves: 5, Kills: 30, Score: 80
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+[25,2] Ended after 84 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 6
+Added Tower at 7
+Added Tower at 45
+Added Tower at 70
+[25,3] Ended after 70 seconds; Waves: 5, Kills: 25, Score: 75
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 93
+[25,4] Ended after 97 seconds; Waves: 6, Kills: 58, Score: 118
+Added Tower at 6
+Added Tower at 7
+Added Tower at 47
+Added Tower at 70
+[25,5] Ended after 72 seconds; Waves: 5, Kills: 27, Score: 77
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 81
+Added Tower at 100
+[25,6] Ended after 102 seconds; Waves: 7, Kills: 60, Score: 130
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+[25,7] Ended after 84 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 2
+Added Tower at 6
+Added Tower at 30
+Added Tower at 62
+[25,8] Ended after 85 seconds; Waves: 6, Kills: 42, Score: 102
+Added Tower at 6
+Added Tower at 7
+Added Tower at 47
+Added Tower at 70
+[25,9] Ended after 70 seconds; Waves: 5, Kills: 27, Score: 77
+Added Tower at 2
+Added Tower at 5
+Added Tower at 23
+Added Tower at 53
+Added Tower at 67
+[25,10] Ended after 79 seconds; Waves: 5, Kills: 34, Score: 84
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[25,11] Ended after 84 seconds; Waves: 6, Kills: 41, Score: 101
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[25,12] Ended after 83 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 6
+Added Tower at 7
+Added Tower at 47
+Added Tower at 70
+[25,13] Ended after 70 seconds; Waves: 5, Kills: 26, Score: 76
+Added Tower at 2
+Added Tower at 5
+[25,14] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 1
+Added Tower at 2
+Added Tower at 34
+Added Tower at 53
+Added Tower at 68
+Added Tower at 83
+[25,15] Ended after 83 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 5
+[26,0] Ended after 58 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[26,1] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[26,2] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 5
+Added Tower at 6
+[26,3] Ended after 62 seconds; Waves: 4, Kills: 7, Score: 47
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 67
+[26,4] Ended after 91 seconds; Waves: 6, Kills: 36, Score: 96
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+Added Tower at 86
+[26,5] Ended after 92 seconds; Waves: 6, Kills: 45, Score: 105
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[26,6] Ended after 83 seconds; Waves: 6, Kills: 41, Score: 101
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 59
+[26,7] Ended after 83 seconds; Waves: 6, Kills: 41, Score: 101
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 65
+[26,8] Ended after 88 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+Added Tower at 83
+[26,9] Ended after 90 seconds; Waves: 6, Kills: 42, Score: 102
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 102
+Added Tower at 121
+[26,10] Ended after 121 seconds; Waves: 7, Kills: 69, Score: 139
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 102
+Added Tower at 116
+[26,11] Ended after 122 seconds; Waves: 7, Kills: 74, Score: 144
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 86
+[26,12] Ended after 106 seconds; Waves: 6, Kills: 54, Score: 114
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 102
+Added Tower at 116
+[26,13] Ended after 123 seconds; Waves: 7, Kills: 74, Score: 144
+Added Tower at 2
+Added Tower at 6
+Added Tower at 40
+Added Tower at 63
+Added Tower at 93
+[26,14] Ended after 96 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 33
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 93
+[26,15] Ended after 108 seconds; Waves: 6, Kills: 62, Score: 122
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 50
+Added Tower at 70
+Added Tower at 84
+Added Tower at 102
+Added Tower at 121
+[27,0] Ended after 124 seconds; Waves: 7, Kills: 72, Score: 142
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 84
+Added Tower at 93
+Added Tower at 121
+[27,1] Ended after 123 seconds; Waves: 7, Kills: 72, Score: 142
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 89
+[27,2] Ended after 103 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 93
+Added Tower at 102
+[27,3] Ended after 120 seconds; Waves: 7, Kills: 65, Score: 135
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 66
+Added Tower at 83
+Added Tower at 89
+Added Tower at 102
+Added Tower at 115
+Added Tower at 127
+Added Tower at 131
+[27,4] Ended after 137 seconds; Waves: 8, Kills: 88, Score: 168
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 102
+Added Tower at 112
+[27,5] Ended after 122 seconds; Waves: 7, Kills: 72, Score: 142
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 63
+Added Tower at 86
+[27,6] Ended after 100 seconds; Waves: 6, Kills: 46, Score: 106
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 93
+Added Tower at 102
+[27,7] Ended after 111 seconds; Waves: 7, Kills: 62, Score: 132
+Added Tower at 2
+Added Tower at 5
+[27,8] Ended after 61 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 71
+Added Tower at 83
+Added Tower at 102
+Added Tower at 121
+[27,9] Ended after 123 seconds; Waves: 7, Kills: 74, Score: 144
+Added Tower at 2
+Added Tower at 6
+Added Tower at 33
+Added Tower at 53
+Added Tower at 68
+Added Tower at 86
+Added Tower at 104
+[27,10] Ended after 106 seconds; Waves: 6, Kills: 59, Score: 119
+Added Tower at 2
+Added Tower at 6
+Added Tower at 33
+Added Tower at 63
+Added Tower at 83
+[27,11] Ended after 85 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 5
+Added Tower at 53
+[27,12] Ended after 63 seconds; Waves: 4, Kills: 16, Score: 56
+Added Tower at 2
+Added Tower at 5
+[27,13] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[27,14] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[27,15] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[28,0] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 4
+Added Tower at 31
+Added Tower at 53
+Added Tower at 70
+Added Tower at 82
+[28,1] Ended after 82 seconds; Waves: 6, Kills: 44, Score: 104
+Added Tower at 2
+Added Tower at 5
+[28,2] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[28,3] Ended after 61 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+[28,4] Ended after 84 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+Added Tower at 86
+[28,5] Ended after 94 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+[28,6] Ended after 84 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 63
+[28,7] Ended after 84 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[28,8] Ended after 84 seconds; Waves: 6, Kills: 39, Score: 99
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+Added Tower at 83
+Added Tower at 92
+[28,9] Ended after 97 seconds; Waves: 6, Kills: 55, Score: 115
+Added Tower at 2
+Added Tower at 6
+Added Tower at 33
+Added Tower at 53
+Added Tower at 71
+Added Tower at 93
+Added Tower at 102
+[28,10] Ended after 110 seconds; Waves: 7, Kills: 66, Score: 136
+Added Tower at 2
+Added Tower at 6
+Added Tower at 33
+Added Tower at 59
+Added Tower at 81
+Added Tower at 102
+[28,11] Ended after 108 seconds; Waves: 7, Kills: 63, Score: 133
+Added Tower at 2
+Added Tower at 5
+[28,12] Ended after 66 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[28,13] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[28,14] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[28,15] Ended after 62 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[29,0] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[29,1] Ended after 64 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[29,2] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[29,3] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 6
+[29,4] Ended after 67 seconds; Waves: 4, Kills: 7, Score: 47
+Added Tower at 2
+Added Tower at 5
+[29,5] Ended after 65 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[29,6] Ended after 64 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[29,7] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 53
+[29,8] Ended after 60 seconds; Waves: 4, Kills: 16, Score: 56
+Added Tower at 2
+Added Tower at 5
+[29,9] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[29,10] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[29,11] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 76
+[29,12] Ended after 79 seconds; Waves: 6, Kills: 36, Score: 96
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 73
+[29,13] Ended after 76 seconds; Waves: 5, Kills: 35, Score: 85
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+[29,14] Ended after 90 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[29,15] Ended after 83 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 53
+Added Tower at 71
+[30,0] Ended after 82 seconds; Waves: 6, Kills: 41, Score: 101
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 70
+[30,1] Ended after 90 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[30,2] Ended after 82 seconds; Waves: 6, Kills: 38, Score: 98
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[30,3] Ended after 82 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[30,4] Ended after 82 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 53
+Added Tower at 70
+[30,5] Ended after 84 seconds; Waves: 6, Kills: 44, Score: 104
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 71
+Added Tower at 76
+Added Tower at 93
+[30,6] Ended after 93 seconds; Waves: 6, Kills: 56, Score: 116
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 59
+Added Tower at 83
+[30,7] Ended after 85 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[30,8] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[30,9] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[30,10] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[30,11] Ended after 62 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 62
+Added Tower at 83
+[30,12] Ended after 94 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 53
+Added Tower at 81
+Added Tower at 94
+[30,13] Ended after 101 seconds; Waves: 6, Kills: 51, Score: 111
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[30,14] Ended after 83 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 2
+Added Tower at 7
+Added Tower at 34
+Added Tower at 59
+Added Tower at 71
+Added Tower at 83
+Added Tower at 93
+[30,15] Ended after 96 seconds; Waves: 6, Kills: 60, Score: 120
+Added Tower at 2
+Added Tower at 5
+[31,0] Ended after 61 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[31,1] Ended after 62 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[31,2] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[31,3] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 6
+Added Tower at 32
+Added Tower at 62
+[31,4] Ended after 85 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[31,5] Ended after 85 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 2
+Added Tower at 3
+Added Tower at 34
+Added Tower at 64
+Added Tower at 82
+[31,6] Ended after 90 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+Added Tower at 83
+[31,7] Ended after 89 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[31,8] Ended after 86 seconds; Waves: 6, Kills: 39, Score: 99
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 65
+Added Tower at 93
+[31,9] Ended after 97 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 6
+Added Tower at 33
+Added Tower at 59
+Added Tower at 71
+Added Tower at 91
+Added Tower at 105
+[31,10] Ended after 111 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+Added Tower at 73
+[31,11] Ended after 91 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 5
+[31,12] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[31,13] Ended after 59 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[31,14] Ended after 61 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 58
+[31,15] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[32,0] Ended after 62 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[32,1] Ended after 61 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[32,2] Ended after 61 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[32,3] Ended after 61 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[32,4] Ended after 61 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 4
+Added Tower at 45
+Added Tower at 63
+[32,5] Ended after 84 seconds; Waves: 6, Kills: 43, Score: 103
+Added Tower at 2
+Added Tower at 5
+[32,6] Ended after 58 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[32,7] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 6
+Added Tower at 7
+Added Tower at 34
+Added Tower at 53
+Added Tower at 75
+[32,8] Ended after 81 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[32,9] Ended after 82 seconds; Waves: 6, Kills: 38, Score: 98
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+Added Tower at 83
+[32,10] Ended after 83 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 59
+[32,11] Ended after 81 seconds; Waves: 6, Kills: 42, Score: 102
+Added Tower at 2
+Added Tower at 5
+Added Tower at 58
+[32,12] Ended after 58 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 68
+[32,13] Ended after 68 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[32,14] Ended after 62 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[32,15] Ended after 59 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 52
+Added Tower at 67
+Added Tower at 83
+Added Tower at 93
+[33,0] Ended after 95 seconds; Waves: 7, Kills: 62, Score: 132
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 62
+[33,1] Ended after 84 seconds; Waves: 6, Kills: 39, Score: 99
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 49
+Added Tower at 69
+Added Tower at 83
+Added Tower at 93
+[33,2] Ended after 106 seconds; Waves: 7, Kills: 61, Score: 131
+Added Tower at 2
+Added Tower at 6
+Added Tower at 34
+Added Tower at 53
+[33,3] Ended after 82 seconds; Waves: 6, Kills: 37, Score: 97
+Added Tower at 2
+Added Tower at 5
+[33,4] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[33,5] Ended after 59 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[33,6] Ended after 59 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[33,7] Ended after 60 seconds; Waves: 4, Kills: 13, Score: 53
+Added Tower at 2
+Added Tower at 5
+Added Tower at 34
+Added Tower at 63
+Added Tower at 83
+[33,8] Ended after 91 seconds; Waves: 6, Kills: 41, Score: 101
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[33,9] Ended after 63 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[33,10] Ended after 64 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+Added Tower at 62
+[33,11] Ended after 62 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 6
+Added Tower at 31
+Added Tower at 54
+Added Tower at 72
+[33,12] Ended after 93 seconds; Waves: 6, Kills: 52, Score: 112
+Added Tower at 2
+Added Tower at 5
+[33,13] Ended after 51 seconds; Waves: 4, Kills: 0, Score: 40
+Added Tower at 2
+Added Tower at 5
+[33,14] Ended after 59 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[33,15] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[34,0] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[34,1] Ended after 51 seconds; Waves: 4, Kills: 0, Score: 40
+Added Tower at 2
+Added Tower at 5
+[34,2] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 52
+Added Tower at 67
+Added Tower at 83
+Added Tower at 94
+[34,3] Ended after 97 seconds; Waves: 7, Kills: 62, Score: 132
+Added Tower at 2
+Added Tower at 5
+[34,4] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[34,5] Ended after 52 seconds; Waves: 4, Kills: 0, Score: 40
+Added Tower at 2
+Added Tower at 5
+[34,6] Ended after 61 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 52
+Added Tower at 63
+Added Tower at 76
+Added Tower at 93
+Added Tower at 94
+[34,7] Ended after 98 seconds; Waves: 7, Kills: 63, Score: 133
+Added Tower at 2
+Added Tower at 5
+[34,8] Ended after 60 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[34,9] Ended after 53 seconds; Waves: 4, Kills: 0, Score: 40
+Added Tower at 2
+Added Tower at 5
+Added Tower at 34
+Added Tower at 62
+Added Tower at 81
+[34,10] Ended after 81 seconds; Waves: 6, Kills: 41, Score: 101
+Added Tower at 2
+Added Tower at 4
+Added Tower at 28
+Added Tower at 51
+Added Tower at 66
+Added Tower at 83
+Added Tower at 94
+[34,11] Ended after 94 seconds; Waves: 6, Kills: 57, Score: 117
+Added Tower at 2
+Added Tower at 7
+Added Tower at 47
+Added Tower at 68
+Added Tower at 83
+[34,12] Ended after 88 seconds; Waves: 6, Kills: 40, Score: 100
+Added Tower at 2
+Added Tower at 6
+[34,13] Ended after 61 seconds; Waves: 4, Kills: 4, Score: 44
+Added Tower at 2
+Added Tower at 7
+Added Tower at 47
+Added Tower at 71
+Added Tower at 93
+[34,14] Ended after 99 seconds; Waves: 6, Kills: 41, Score: 101
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 62
+Added Tower at 82
+Added Tower at 102
+Added Tower at 111
+[34,15] Ended after 118 seconds; Waves: 7, Kills: 64, Score: 134
+Added Tower at 2
+Added Tower at 7
+Added Tower at 49
+Added Tower at 71
+Added Tower at 93
+[35,0] Ended after 98 seconds; Waves: 6, Kills: 39, Score: 99
+Added Tower at 2
+Added Tower at 6
+[35,1] Ended after 65 seconds; Waves: 4, Kills: 3, Score: 43
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 62
+Added Tower at 76
+Added Tower at 93
+[35,2] Ended after 103 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 62
+Added Tower at 76
+Added Tower at 93
+[35,3] Ended after 102 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 5
+Added Tower at 73
+[35,4] Ended after 73 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[35,5] Ended after 64 seconds; Waves: 4, Kills: 0, Score: 40
+Added Tower at 2
+Added Tower at 4
+Added Tower at 45
+Added Tower at 72
+Added Tower at 83
+[35,6] Ended after 104 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 4
+Added Tower at 45
+Added Tower at 68
+Added Tower at 93
+Added Tower at 111
+[35,7] Ended after 112 seconds; Waves: 6, Kills: 53, Score: 113
+Added Tower at 2
+Added Tower at 5
+Added Tower at 73
+[35,8] Ended after 75 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[35,9] Ended after 65 seconds; Waves: 4, Kills: 0, Score: 40
+Added Tower at 2
+Added Tower at 4
+Added Tower at 62
+[35,10] Ended after 75 seconds; Waves: 4, Kills: 15, Score: 55
+Added Tower at 2
+Added Tower at 4
+Added Tower at 45
+Added Tower at 72
+Added Tower at 83
+[35,11] Ended after 105 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 5
+Added Tower at 73
+[35,12] Ended after 75 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 5
+[35,13] Ended after 65 seconds; Waves: 4, Kills: 0, Score: 40
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 62
+Added Tower at 82
+Added Tower at 104
+Added Tower at 111
+[35,14] Ended after 120 seconds; Waves: 7, Kills: 62, Score: 132
+Added Tower at 2
+Added Tower at 4
+Added Tower at 45
+Added Tower at 62
+Added Tower at 83
+[35,15] Ended after 101 seconds; Waves: 6, Kills: 44, Score: 104
+Added Tower at 2
+Added Tower at 4
+Added Tower at 45
+Added Tower at 72
+Added Tower at 83
+[36,0] Ended after 105 seconds; Waves: 6, Kills: 48, Score: 108
+Added Tower at 2
+Added Tower at 5
+Added Tower at 73
+[36,1] Ended after 75 seconds; Waves: 4, Kills: 12, Score: 52
+Added Tower at 2
+Added Tower at 4
+Added Tower at 45
+Added Tower at 72
+Added Tower at 83
+[36,2] Ended after 103 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 62
+Added Tower at 76
+Added Tower at 93
+Added Tower at 111
+[36,3] Ended after 117 seconds; Waves: 6, Kills: 61, Score: 121
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 53
+Added Tower at 76
+[36,4] Ended after 102 seconds; Waves: 6, Kills: 47, Score: 107
+Added Tower at 1
+Added Tower at 2
+Added Tower at 53
+[36,5] Ended after 78 seconds; Waves: 4, Kills: 15, Score: 55
+Added Tower at 2
+Added Tower at 4
+Added Tower at 47
+Added Tower at 72
+Added Tower at 83
+Added Tower at 111
+[36,6] Ended after 115 seconds; Waves: 6, Kills: 55, Score: 115
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 62
+Added Tower at 76
+Added Tower at 94
+Added Tower at 108
+[36,7] Ended after 114 seconds; Waves: 6, Kills: 60, Score: 120
+Added Tower at 2
+Added Tower at 4
+Added Tower at 34
+Added Tower at 62
+Added Tower at 76
+Added Tower at 93
+Added Tower at 111
+[36,8] Ended after 118 seconds; Waves: 6, Kills: 61, Score: 121
+Added Tower at 2
+Added Tower at 5

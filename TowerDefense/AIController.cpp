@@ -10,7 +10,7 @@
 
 using namespace std;
 
-#define EXPORT false
+#define EXPORT true
 #define REPLAY false
 
 #define TOURNAMENT_SELECTION 0
@@ -28,9 +28,9 @@ using namespace std;
 
 #define MUTATION_RATE 100 // 1 in MUTATION_RATE chance to mutate
 
-#define SELECTION TOURNAMENT_SELECTION
-#define CROSSOVER ONE_POINT_CROSSOVER
-#define MUTATION SHIFT_MUTATION
+#define SELECTION ROULETTE_SELECTION
+#define CROSSOVER UNIFORM_CROSSOVER
+#define MUTATION BIT_STRING_MUTATION
 
 AIController::AIController()
 {
@@ -48,7 +48,7 @@ AIController::AIController()
 	std::ofstream o("export.csv");
 
 	_currentGenerationNum = 0;
-	o << ",0,1,2,3,4,5,6,7,8,9,10,11" << std::endl;
+	o << ",0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15" << std::endl;
 
 	while (true)
 	{
